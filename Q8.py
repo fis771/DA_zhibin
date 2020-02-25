@@ -1,7 +1,6 @@
 import unittest
 import Q6
 
-#copy class from E3.py
 class TestMyProgram(unittest.TestCase):
     def test_Engine(self):
         vios = Q6.mySpider
